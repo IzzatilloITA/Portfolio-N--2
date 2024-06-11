@@ -21,7 +21,7 @@ a{
     display: flex;
     flex-direction: row;
     align-items: center;
-    gap: 70%;
+    gap: 20%;
 }
 .hm-b{
     color: #25202F ;
