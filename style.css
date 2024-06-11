@@ -1,0 +1,86 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.a{
+    color: #ffffff;
+}
+a{
+    text-decoration: none ;
+}
+.container{
+    margin: 0 auto;
+    width: 90%;
+}
+.row{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.nav{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 70%;
+}
+.hm-b{
+    color: #25202F ;
+    font-size: 25px;
+}
+.h-menu{
+    gap: 20%;
+}
+.h-main{
+    gap: 20%;
+}
+.hm-sub_t{
+    color: #666666;
+    font-size: 40px;
+}
+.hm-tit{
+    color: #25202F;
+    font-size: 60px;
+}
+.hm-slogan{
+    color: #666666;
+    font-size: 45px;
+}
+.hm-but{
+    width: 200px;
+    height: 60px;
+    background-color: #8643DC;
+    border: 0;
+    border-radius: 100px;
+    font-size: 30px;
+    color: #ffffff;
+}
+.s-tit{
+    width: 230px;
+    color: #25202F;
+    font-size: 40px;
+}
+.sect1-cards{
+    gap: 10%;
+}
+.c-tit{
+    font-size: 30px;
+    font-weight: bold;
+    gap: 10%;
+}
+.c-stit{
+    font-size: 25px;
+}
+.s2-img-con{
+    gap: 10%;
+}
+.con{
+    gap: 40%;
+}
+.cont{
+    font-size: 40px;
+    color: #25202F;
+}
+.links .ab{
+    font-size: 40px;
+    color: #25202F;
+}
