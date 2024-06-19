@@ -14,6 +14,7 @@ a{
 }
 .sites_pic{
     width: 430px;
+    heigt: 300px;
 }
 .row{
     display: flex;
