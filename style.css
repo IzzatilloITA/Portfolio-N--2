@@ -12,6 +12,9 @@ a{
     margin: 0 auto;
     width: 90%;
 }
+.sites_pic{
+    width: 430px;
+}
 .row{
     display: flex;
     flex-direction: row;
